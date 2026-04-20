@@ -46,5 +46,11 @@ Building new projects — with and without AI.
 - [ ] Learn new programming languages (e.g. Python, TypeScript)
 ---
 
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=brentl09&show_icons=true&theme=default&hide_border=true" />
+
+---
+
 
 <p><em>Student by day, builder by night.</em></p>
