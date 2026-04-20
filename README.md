@@ -3,7 +3,7 @@
 <p>
 17-year-old programming student from Belgium 🇧🇪 
 
-Building real projects — with and without AI.
+Building new projects — with and without AI.
 </p>
 
 ---
@@ -30,35 +30,21 @@ Building real projects — with and without AI.
 ## 📚 What I'm Learning
 
 - Structuring full applications end-to-end
-- Working with databases and data management principles
 - Clean code habits and project organisation
 - Exploring frameworks on top of my core skills
+- learning new skills using ai
 
 ---
 
 ## 🚀 Goals for This Year
 
 - [ ] Build and ship at least 3 complete personal projects
-- [ ] Contribute to an open-source repository
-- [ ] Strengthen my backend skills with C# / .NET
+- [ ] Strengthen my backend skills with C#
 - [ ] Learn the basics of databases (SQL)
+- [ ] become better at web development
 - [ ] Get comfortable reading other people's code
-
+- [ ] Learn new programming languages (e.g. Python, TypeScript)
 ---
 
-## 📂 Projects
-
-<!-- Pin your best repos below or list them here -->
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🔧 Coming soon | Working on it... | — |
-
----
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" />
-
----
 
 <p><em>Student by day, builder by night.</em></p>
