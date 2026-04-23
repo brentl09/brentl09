@@ -1,4 +1,4 @@
-<h1>Hey, I'm Brent</h1>
+<h1>Hey, I'm Brent ;)</h1>
 
 <p>
 17-year-old programming student from Belgium 🇧🇪 
