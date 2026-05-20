@@ -47,10 +47,6 @@ Building new projects — with and without AI.
 - [ ] Learn new programming languages (e.g. Python, TypeScript)
 ---
 
-## 📬 Contact info?
-Reach out via [email](mailto:Brent.leys09@gmail.com).
-
-
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=brentl09&show_icons=true&theme=default&hide_border=true" />
