@@ -8,8 +8,9 @@ Building new projects — with and without AI.
 
 ---
 
-## 🧑‍💻 About Me
 
+## 🧑‍💻 About Me
+- 💼 Freelance web developer — building websites for small businesses
 - 🎓 Currently studying **application development & data management**
 - ⚡ Passionate about turning ideas into working software
 - 🤖 Experimenting with AI-assisted development workflows
